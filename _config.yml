@@ -1,0 +1,21 @@
+# Site settings
+title: Sara's Coding Progress
+header-img: img/home-bg.png
+email: sara.hopper@gmail.com
+copyright_name: shoppersaysso
+description: > # this means to ignore newlines until "baseurl:"
+  My journey through learning how to code
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: shoppersaysso
+github_username:  shoppersaysso
+learn_profile: shoppersaysso
+email_username: sara.hopper@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
