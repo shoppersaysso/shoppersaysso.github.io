@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Baker Scraper CLI Data Gem Project"
-date:   2017-04-24 18:29:24 +0000
+date:   2017-04-24 14:29:25 -0400
 ---
 
 
@@ -16,9 +16,8 @@ At first, this seemed very simple in my mind, but I ran into a number of setback
 Because of the blog format of the site, it was initially difficult to find the right selectors on the site to specify which data to scrape. I began by following along with a video walkthrough for a similar project, creating a gem called Daily-Deals, which scrapes infor from sites like www.woot.com and www.meh.com to put all daily deals in one place. It seemed simple in the walkthrough as it was easy to find  ID selectors in the CSS code for the site that were uniquely labeled.  With the blog format of www.joythebaker.com, I did not have unique IDs to pull. So I had to get a little creative with the selectors. I lot of trial and error went into getting the right data to show in the way that I wanted it to.  This question posted to Stack Overflow was especially helpful: http://stackoverflow.com/questions/15661125/web-scraping-with-nokogirihtml-and-ruby-how-to-get-output-into-an-array
 
 The other major setback I encountered during this project was personal. I had a trip planned to go to my boyfriend's hometown of Minneapolis to meet his father and spend time with some of his childhood friends.  I figured it would be easy to bring my laptop with my and to work on this project during our lazy downtime. When we arrived at his father's house where we were staying, I discovered that not only did his father not have WiFi in the house, he didn't have an internet connection of any kind! Makes it hard to code a project dependent on web scraping when you can't connect to the web!
-```
+
 <iframe src="//giphy.com/embed/6HZ0P9IkUSfgk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/6HZ0P9IkUSfgk">via GIPHY</a></p>
-```
 
 Several trips to a local coffee shop and some tethering off of my boyfriend's cell phone later, I was able to continue to work on the project. Learning to code in addition to working a full-time job and trying to have a social life is definitely a balancing act!
 
