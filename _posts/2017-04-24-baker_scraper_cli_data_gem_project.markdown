@@ -17,7 +17,7 @@ Because of the blog format of the site, it was initially difficult to find the r
 
 The other major setback I encountered during this project was personal. I had a trip planned to go to my boyfriend's hometown of Minneapolis to meet his father and spend time with some of his childhood friends.  I figured it would be easy to bring my laptop with my and to work on this project during our lazy downtime. When we arrived at his father's house where we were staying, I discovered that not only did his father not have WiFi in the house, he didn't have an internet connection of any kind! Makes it hard to code a project dependent on web scraping when you can't connect to the web!
 
-<iframe src="//giphy.com/embed/6HZ0P9IkUSfgk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/6HZ0P9IkUSfgk">via GIPHY</a></p>
+<iframe src="//giphy.com/embed/6HZ0P9IkUSfgk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/6HZ0P9IkUSfgk"></a></p>
 
 Several trips to a local coffee shop and some tethering off of my boyfriend's cell phone later, I was able to continue to work on the project. Learning to code in addition to working a full-time job and trying to have a social life is definitely a balancing act!
 
