@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Code What You Know: My Rails Portfolio App, GameView"
-date:   2017-08-26 20:44:11 +0000
+date:   2017-08-26 16:44:12 -0400
 ---
 
 
