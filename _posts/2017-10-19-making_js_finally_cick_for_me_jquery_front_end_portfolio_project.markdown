@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Making JS Finally Cick for Me: Jquery Front End Portfolio Project"
-date:       2017-10-19 16:05:41 +0000
+title:      "Making JS Finally Click for Me: Jquery Front End Portfolio Project"
+date:       2017-10-19 12:05:41 -0400
 permalink:  making_js_finally_cick_for_me_jquery_front_end_portfolio_project
 ---
 
