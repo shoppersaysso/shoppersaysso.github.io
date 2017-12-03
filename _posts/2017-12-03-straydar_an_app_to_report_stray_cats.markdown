@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Straydar, an app to report stray cats"
-date:       2017-12-03 22:38:50 +0000
+date:       2017-12-03 17:38:51 -0500
 permalink:  straydar_an_app_to_report_stray_cats
 ---
 
@@ -14,7 +14,7 @@ I happen to be very allergic to cats, so approaching them or rescuing them mysel
 
 Enter Straydar.
 
-Stradar is an app built to report stray cat sightings. You can report a stray cat sighting by filling out a simple form with basic information and the location you spotted the cat.  You can even upload an image if you managed to snap a photo on your phone. You can then filter through the list of already reported sightings to try to find specific cats.
+Straydar is an app built to report stray cat sightings. You can report a stray cat sighting by filling out a simple form with basic information and the location you spotted the cat.  You can even upload an image if you managed to snap a photo on your phone. You can then filter through the list of already reported sightings to try to find specific cats.
 
 The idea is to help track stray cats and also to help locate ones that might be lost cats that their owners are looking for.
 
